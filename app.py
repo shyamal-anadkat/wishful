@@ -7,6 +7,7 @@ from main import wish
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 st.header("🌸 Wish your special ones on an occasion!")
+st.write("An app by Shyamal Anadkat")
 
 form = st.form(key="annotation")
 
