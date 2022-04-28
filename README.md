@@ -10,7 +10,9 @@ Running it locally:
 
 1. Run `make install`
 2. Set the API key for the OpenAI API as an environment variable. 
-3. Run `streamlit run app.py` 
+3. Run `streamlit run app.py`
+
+Currently supported occasions: Birthday, Anniversary, Graduation, Engagement, Retirement, Journey
 
 ## App Screenshots: 
 
@@ -18,7 +20,8 @@ Running it locally:
 
 ![image](https://user-images.githubusercontent.com/12115186/165672005-154f4e5b-0743-40b3-8e65-c955c66b1226.png)
 
+---
 
-### [Usage Guidelines](https://beta.openai.com/docs/usage-guidelines)
-### [Terms of Use](https://openai.com/api/policies/terms/)
+#### [Usage Guidelines](https://beta.openai.com/docs/usage-guidelines)
+#### [Terms of Use](https://openai.com/api/policies/terms/)
 
